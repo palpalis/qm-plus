@@ -1,4 +1,3 @@
-# qm-cat > README.md << EOF
 # QM Plus - Sistem Bakım Aracı
 Kali Linux için geliştirilmiş sistem bakım ve optimizasyon scripti.
 
